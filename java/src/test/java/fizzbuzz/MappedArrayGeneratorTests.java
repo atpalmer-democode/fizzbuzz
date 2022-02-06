@@ -1,6 +1,6 @@
-package com.palmeroo.kata.fizzbuzz.solution1;
+package fizzbuzz;
 
-import com.palmeroo.kata.fizzbuzz.solution1.mappers.Mapper;
+import fizzbuzz.mappers.Mapper;
 import org.junit.Assert;
 import org.junit.Test;
 

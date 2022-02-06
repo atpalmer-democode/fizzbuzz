@@ -1,4 +1,4 @@
-package com.palmeroo.kata.fizzbuzz.solution1.mappers;
+package fizzbuzz.mappers;
 
 import java.util.Objects;
 import java.util.function.IntPredicate;

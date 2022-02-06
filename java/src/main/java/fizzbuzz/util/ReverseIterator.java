@@ -1,4 +1,4 @@
-package com.palmeroo.kata.fizzbuzz.solution1.util;
+package fizzbuzz.util;
 
 import java.util.Iterator;
 import java.util.List;

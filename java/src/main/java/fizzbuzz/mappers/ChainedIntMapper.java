@@ -1,6 +1,6 @@
-package com.palmeroo.kata.fizzbuzz.solution1.mappers;
+package fizzbuzz.mappers;
 
-import com.palmeroo.kata.fizzbuzz.solution1.util.ReverseIterator;
+import fizzbuzz.util.ReverseIterator;
 
 import java.util.ArrayList;
 import java.util.List;
